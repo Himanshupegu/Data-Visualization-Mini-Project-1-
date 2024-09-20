@@ -5,7 +5,7 @@
 - Python Code: 20/09/2024
 - PPT: 23/09/2024
 
-_Note_: For a dataset different from the assigned one (if the work is more challenging), you can discuss an extended due date separately.
+_Dataset_: [_Tesla Stocks Prediction_](https://www.kaggle.com/datasets/naiyakhalid/tesla-stocks-data)
 
 ## Objective
 
